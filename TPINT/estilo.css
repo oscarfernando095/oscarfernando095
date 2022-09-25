@@ -1,0 +1,118 @@
+.uno{
+    height: 80px;;
+    background-color:#283747;
+    color: aliceblue;
+}
+
+div ul{
+    padding: 22px;
+}
+
+div ul li{
+    display: inline;
+    list-style: none;
+    width: 100px;
+    font-size: 18px;
+    text-align: right;
+    padding: 10px;
+}
+
+#puno{
+    display: inline;    
+    font-size: 22px;
+}
+
+.dos{
+    
+    position: relative;
+    display: flex;
+    
+}
+
+.tres{
+    position: absolute;
+    top: 50%;
+    right: 5%;
+    color: aliceblue;
+    font-size: 22px;
+    text-align: right;
+    width: 50%;
+    
+}
+.cuatro{
+    position: absolute;
+    top: 40%;
+    right: 5%;
+    color: aliceblue;
+    font-size: 33px;
+    text-align: right;
+}
+#pa1{
+    margin: 5px;
+    text-align: center;
+    
+}
+
+#pa2{
+    font-size: 35px;
+    text-align: center;
+}
+
+#caja{
+    background-color:#283747;
+    color: aliceblue;
+}
+
+#caja1{
+    font-size: 22px;
+}
+
+#caja2{
+    font-size: 13px;
+}
+
+#caja3{
+    border-radius: 5px;
+    border-color: aliceblue;
+    color: aliceblue;
+    background-color: #283747;
+}
+
+#texta{
+    width: 60%;
+    height: 40px;
+}
+
+.pie{
+    
+    background-color: #1A5276;
+    height: 80px;
+}
+.pie1{
+    display: flex;
+    
+    
+}
+
+.pie2{
+    list-style: none;
+    display: inline-block;
+    width: 160px;
+    font-size: 20px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.container{
+    display: flex;
+}
+
+.boton{
+    width: 60%;
+    background-color:#33CC00 ;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    color: aliceblue;
+    font-size: 20px;
+}
